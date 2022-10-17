@@ -102,6 +102,12 @@ browser.preferences.defaultPerformanceSettings.enabled = false
 
 ```
 
+Disable CSS backdrop
+
+```
+layout.css.backdrop-filter.enabled
+```
+
 ### References
 
 - <https://wiki.archlinux.org/title/Firefox/Tweaks>
