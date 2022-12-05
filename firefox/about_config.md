@@ -112,3 +112,9 @@ layout.css.backdrop-filter.enabled
 
 - <https://wiki.archlinux.org/title/Firefox/Tweaks>
 - <https://wiki.gentoo.org/wiki/Firefox>
+
+
+## Sound and Video
+Disable VP9 and use AV1 in Linux/Windows, HEVC in MacOS
+
+
