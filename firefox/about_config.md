@@ -102,7 +102,19 @@ browser.preferences.defaultPerformanceSettings.enabled = false
 
 ```
 
+Disable CSS backdrop
+
+```
+layout.css.backdrop-filter.enabled
+```
+
 ### References
 
 - <https://wiki.archlinux.org/title/Firefox/Tweaks>
 - <https://wiki.gentoo.org/wiki/Firefox>
+
+
+## Sound and Video
+Disable VP9 and use AV1 in Linux/Windows, HEVC in MacOS
+
+
